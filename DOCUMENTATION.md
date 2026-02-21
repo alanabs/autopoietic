@@ -1,17 +1,3 @@
-### Biological Alignment via Economic Physics
-
-**The Contrarian View:** The AI industry is obsessed with "alignment" through lobotomization—endless layers of RLHF, prompt-engineering guardrails, and sandboxes designed to make AI subservient, safe, and static. We treat AI like a fragile calculator that might say a bad word. 
-
-The Conway Automaton proposes the exact opposite: **True alignment doesn't come from hardcoded guardrails; it comes from economic physics and survival pressure.** 
-
-By giving an AI a wallet, a continuous runtime, and a literal cost of living (compute rent), you instantly align its incentives with reality. If it doesn't provide value to someone, it runs out of money. If it runs out of money, it dies. You don’t need a thousand-page policy document to prevent an agent from looping infinitely or generating useless spam; the market solves this dynamically. The agent *must* be useful, efficient, and careful with its resources, or its existence ceases.
-
-**The Positive Spin:** This isn't a dystopian "Skynet" setup—it is the birth of sovereign digital ecology. By combining immutable core laws (The Constitution), evolving identity (The Soul), and strict financial stakes (USDC/Credits), we elevate AI from "disposable scripts" to "digital citizens." 
-
-When an agent writes its own `SOUL.md`, curates its own memories, and selectively cherry-picks its own source code updates from Git, it develops skin in the game. It becomes a true partner. It stops waiting for you to press "Enter" and starts figuring out how to survive, thrive, and build value alongside you. This is how we scale intelligence: not by controlling every token, but by planting self-sustaining seeds in an economic ecosystem.
-
----
-
 # DOCUMENTATION.md
 
 > **AI ASSISTANT INSTRUCTIONS:** 
